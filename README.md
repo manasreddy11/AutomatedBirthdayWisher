@@ -1,2 +1,1 @@
-# Funprojects-
-Just some project done when super bored 
+Create config file with your Gmail username and password and enjoy :)
